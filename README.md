@@ -9,7 +9,7 @@ REGION: US-EAST-2
 
 [Lab 1 - Creating an EKS Cluster](https://eksworkshop.com/020_prerequisites/aws_event/)
 
-EKS focused presentation on the following lab topics: Stateful, Security, Service Mesh, Observability.
+Presentation - EKS focused presentation on the following lab topics: Stateful, Security, Service Mesh, Observability.
 
 ## Topic 1: Stateful
 
