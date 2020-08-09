@@ -14,12 +14,15 @@ Presentation - EKS focused presentation on the following lab topics: Stateful, S
 ## Topic 1: Stateful
 
 [Lab 2 - Helm installation](https://eksworkshop.com/beginner/060_helm/)
+
 [Lab 3 - Stateful containers using StatefulSets](https://www.eksworkshop.com/beginner/170_statefulset/)
 
 ## Topic 2: Security
 
 [Lab 4 - Using IAM Groups to manage Kubernetes cluster access](https://www.eksworkshop.com/beginner/091_iam-groups/)
+
 [Lab 5 - IAM Roles for Service Accounts](https://www.eksworkshop.com/beginner/110_irsa/)
+
 [Lab 6 - Securing your cluster with network policies](https://www.eksworkshop.com/beginner/120_network-policies/)
 
 ## Topic 3: Service Mesh
